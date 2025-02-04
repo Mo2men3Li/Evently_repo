@@ -22,6 +22,11 @@ dependencies:
   flutter_screenutil: ^5.9.3
   flutter_onboarding_slider: ^1.0.11
   smooth_page_indicator: ^1.2.0+3
+  toggle_switch: ^2.3.0
+  font_awesome_flutter: ^10.8.0
+  material_design_icons_flutter: ^7.0.7296
+  easy_localization: ^3.0.7+1
+  provider: ^6.1.2
 
 
 
@@ -40,6 +45,7 @@ flutter:
 
   assets:
      - assets/images/
+     - assets/translations/
 
 flutter_native_splash:
   android: true
